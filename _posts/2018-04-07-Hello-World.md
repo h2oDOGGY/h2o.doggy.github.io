@@ -3,7 +3,7 @@ layout: post
 title: First Post!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/img479 (2).png)
+https://avatars0.githubusercontent.com/u/25884770?s=460&amp;v=4
 
 
 print("Hello, World!")
