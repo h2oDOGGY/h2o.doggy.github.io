@@ -6,7 +6,7 @@ permalink: /about/
 
 ### More Information
 
-For all the professional stuff, check out my [LinkedIn](https://www.linkedin.com/in/jason-lee-a3765299/ "Jason's LinkedIn") profile.
+For all the professional stuff, check out my LinkedIn profile at https://www.linkedin.com/in/jason-lee-a3765299/
 
 ### Contact me
 
