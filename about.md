@@ -9,7 +9,7 @@ Some information about you!
 ### More Information
 
 For all the professional stuff, check out [my LinkedIn profile]
-[my LinkedIn profile]: https://www.linkedin.com/in/jason-lee-a3765299/
+(https://www.linkedin.com/in/jason-lee-a3765299/)
 
 ### Contact me
 
