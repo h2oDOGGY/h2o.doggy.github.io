@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-https://www.linkedin.com/in/jason-lee-a3765299/
+For all the professional stuff, check out [my LinkedIn profile]
+[my LinkedIn profile]: https://www.linkedin.com/in/jason-lee-a3765299/
 
 ### Contact me
 
