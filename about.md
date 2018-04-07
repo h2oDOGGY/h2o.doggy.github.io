@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
 For all the professional stuff, check out [my LinkedIn profile]
